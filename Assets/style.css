@@ -15,6 +15,7 @@ body,
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
+  background-image: url(https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=);
 }
 
 .wrapper {
@@ -27,7 +28,7 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: hsl(200, 23%, 97%);
 }
 
 .card {
