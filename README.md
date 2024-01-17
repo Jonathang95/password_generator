@@ -1,11 +1,9 @@
 # password_generator
-# [](https://)
+# [Jonathan's password generator](https://jonathang95.github.io/password_generator/)
 
-[Github Repository](https://github.com/Jonathang95/Challenge_2)
-
-![](./Assets/images/Screenshot%202024-01-08%20172203.png)
+![](/Assets/Screenshot%202024-01-17%20162804.png)
 ## Description
-Jonathan Garcia is an aspiring developer on this portfollio page you'll find various different information about himself, his experience and his previous work.
+This is a radom password generator that will give you the option to select how many characters and which types of characters you want to use. You have the option to pick from 8-128 and between lowercase, uppercase, numbers, and special characters.
 ## Installation
 N/A
 
